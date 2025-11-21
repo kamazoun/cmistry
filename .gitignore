@@ -1,0 +1,21 @@
+# Build artifacts
+obj/
+bin/
+*.o
+*.exe
+
+# Old compiled binary (from original main.c)
+main
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug files
+*.dSYM/
